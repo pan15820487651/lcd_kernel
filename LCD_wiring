@@ -1,0 +1,15 @@
+Connetion:
+DB7 ==> X70 pin5 gpio70
+DB6 ==> X70 pin7 gpio71
+DB5 ==> X70 pin8 gpio72
+DB4 ==> X70 pin9 gpio73
+DB3 ==> X70 pin10 gpio74
+DB2 ==> X70 pin14 gpio75
+DB1 ==> X70 pin15 gpio76
+DB0 ==> X70 pin18 gpio78
+E ==> X70 pin19 gpio79
+R/W ==> X70 pin35 gpio86
+RS ==> X71 pin5 gpio62 
+Vee ==> X71 pin13 3.3v (potentiometer)
+Vdd ==> X69 pin40 5v
+Vss ==> GND
