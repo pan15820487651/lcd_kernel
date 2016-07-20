@@ -1,3 +1,6 @@
+
+//changed by edison at 2016/07/20
+
 /* 
  * lcd_mod.c: initalizes the LCD and allows text to be printed on the screen.
  *            access is granted through the drive file.
